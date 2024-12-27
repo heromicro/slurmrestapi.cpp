@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/Status.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

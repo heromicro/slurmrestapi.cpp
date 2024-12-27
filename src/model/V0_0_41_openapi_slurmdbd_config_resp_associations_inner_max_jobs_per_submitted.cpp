@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_41_openapi_slurmdbd_config_resp_associations_inner_max_jobs_per_submitted.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

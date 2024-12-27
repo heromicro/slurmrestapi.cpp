@@ -16,8 +16,8 @@
  * This class represents a container for building application/x-multipart-formdata requests.
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_MultipartFormData_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_MultipartFormData_H_
+#ifndef HM_SLURM_CLIENT_MODEL_MultipartFormData_H_
+#define HM_SLURM_CLIENT_MODEL_MultipartFormData_H_
 
 
 #include "slurmrestapi/IHttpBody.h"
@@ -29,8 +29,8 @@
 #include <map>
 #include <memory>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -59,4 +59,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_MultipartFormData_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_MultipartFormData_H_ */

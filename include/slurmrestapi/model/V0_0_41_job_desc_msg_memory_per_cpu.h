@@ -16,15 +16,15 @@
  * Minimum memory in megabytes per allocated CPU
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_job_desc_msg_memory_per_cpu_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_job_desc_msg_memory_per_cpu_H_
+#ifndef HM_SLURM_CLIENT_MODEL_V0_0_41_job_desc_msg_memory_per_cpu_H_
+#define HM_SLURM_CLIENT_MODEL_V0_0_41_job_desc_msg_memory_per_cpu_H_
 
 
 #include "slurmrestapi/ModelBase.h"
 
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -97,4 +97,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_job_desc_msg_memory_per_cpu_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_V0_0_41_job_desc_msg_memory_per_cpu_H_ */

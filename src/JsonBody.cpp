@@ -12,8 +12,8 @@
 
 #include "slurmrestapi/JsonBody.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

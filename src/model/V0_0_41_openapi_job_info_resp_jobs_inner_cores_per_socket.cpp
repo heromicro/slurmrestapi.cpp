@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_41_openapi_job_info_resp_jobs_inner_cores_per_socket.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

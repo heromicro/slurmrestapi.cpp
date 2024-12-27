@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_39_partitions_response.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

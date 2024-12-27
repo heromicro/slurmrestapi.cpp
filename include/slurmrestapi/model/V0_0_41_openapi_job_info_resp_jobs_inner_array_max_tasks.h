@@ -16,15 +16,15 @@
  * Maximum number of simultaneously running array tasks, 0 if no limit
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_array_max_tasks_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_array_max_tasks_H_
+#ifndef HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_array_max_tasks_H_
+#define HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_array_max_tasks_H_
 
 
 #include "slurmrestapi/ModelBase.h"
 
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -97,4 +97,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_array_max_tasks_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_array_max_tasks_H_ */

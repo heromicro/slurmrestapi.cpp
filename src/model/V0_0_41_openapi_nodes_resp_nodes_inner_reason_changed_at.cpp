@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_41_openapi_nodes_resp_nodes_inner_reason_changed_at.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

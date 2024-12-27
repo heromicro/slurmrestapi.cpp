@@ -20,12 +20,12 @@
 
 #include <unordered_set>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace api {
 
-using namespace org::openapitools::client::model;
+using namespace hm::slurm::client::model;
 
 SlurmdbApi::SlurmdbApi( std::shared_ptr<const ApiClient> apiClient )
     : m_ApiClient(apiClient)

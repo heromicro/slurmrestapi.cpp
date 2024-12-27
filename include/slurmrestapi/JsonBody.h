@@ -16,16 +16,16 @@
  * This is a JSON http body which can be submitted via http
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_JsonBody_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_JsonBody_H_
+#ifndef HM_SLURM_CLIENT_MODEL_JsonBody_H_
+#define HM_SLURM_CLIENT_MODEL_JsonBody_H_
 
 
 #include "slurmrestapi/IHttpBody.h"
 
 #include <cpprest/json.h>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -47,4 +47,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_JsonBody_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_JsonBody_H_ */

@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/Dbv0_0_39_meta_Slurm.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

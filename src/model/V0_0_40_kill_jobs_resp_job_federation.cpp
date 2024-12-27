@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_40_kill_jobs_resp_job_federation.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

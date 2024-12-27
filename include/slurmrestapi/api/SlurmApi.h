@@ -16,8 +16,8 @@
  * 
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_API_SlurmApi_H_
-#define ORG_OPENAPITOOLS_CLIENT_API_SlurmApi_H_
+#ifndef HM_SLURM_CLIENT_API_SlurmApi_H_
+#define HM_SLURM_CLIENT_API_SlurmApi_H_
 
 
 
@@ -88,12 +88,12 @@
 #include <cpprest/details/basic_types.h>
 #include <boost/optional.hpp>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace api {
 
-using namespace org::openapitools::client::model;
+using namespace hm::slurm::client::model;
 
 
 
@@ -1127,5 +1127,5 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_API_SlurmApi_H_ */
+#endif /* HM_SLURM_CLIENT_API_SlurmApi_H_ */
 

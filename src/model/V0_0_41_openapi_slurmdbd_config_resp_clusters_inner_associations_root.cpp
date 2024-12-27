@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_41_openapi_slurmdbd_config_resp_clusters_inner_associations_root.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

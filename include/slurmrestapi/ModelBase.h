@@ -16,8 +16,8 @@
  * This is the base class for all model classes
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_ModelBase_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_ModelBase_H_
+#ifndef HM_SLURM_CLIENT_MODEL_ModelBase_H_
+#define HM_SLURM_CLIENT_MODEL_ModelBase_H_
 
 
 
@@ -31,8 +31,8 @@
 #include <set>
 #include <vector>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -503,4 +503,4 @@ bool ModelBase::fromHttpContent( std::shared_ptr<HttpContent> val, std::map<util
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_ModelBase_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_ModelBase_H_ */

@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_40_assoc_shares_obj_wrap.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

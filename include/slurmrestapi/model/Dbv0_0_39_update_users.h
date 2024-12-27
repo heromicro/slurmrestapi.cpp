@@ -16,8 +16,8 @@
  * 
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_Dbv0_0_39_update_users_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_Dbv0_0_39_update_users_H_
+#ifndef HM_SLURM_CLIENT_MODEL_Dbv0_0_39_update_users_H_
+#define HM_SLURM_CLIENT_MODEL_Dbv0_0_39_update_users_H_
 
 
 #include "slurmrestapi/ModelBase.h"
@@ -25,8 +25,8 @@
 #include "slurmrestapi/model/V0_0_39_user.h"
 #include <vector>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -78,4 +78,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_Dbv0_0_39_update_users_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_Dbv0_0_39_update_users_H_ */

@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_40_process_exit_code_verbose_signal.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

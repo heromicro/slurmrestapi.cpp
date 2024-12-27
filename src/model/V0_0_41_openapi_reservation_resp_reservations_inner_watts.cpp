@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_41_openapi_reservation_resp_reservations_inner_watts.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

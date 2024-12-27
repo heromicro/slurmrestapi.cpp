@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_41_job_desc_msg_priority.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

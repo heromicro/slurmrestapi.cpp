@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_41_job_alloc_req.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

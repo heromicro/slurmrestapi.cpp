@@ -16,8 +16,8 @@
  * This is the implementation of a JSON object.
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_Object_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_Object_H_
+#ifndef HM_SLURM_CLIENT_MODEL_Object_H_
+#define HM_SLURM_CLIENT_MODEL_Object_H_
 
 
 #include "slurmrestapi/ModelBase.h"
@@ -25,8 +25,8 @@
 #include <cpprest/details/basic_types.h>
 #include <cpprest/json.h>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -60,4 +60,4 @@ private:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_Object_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_Object_H_ */

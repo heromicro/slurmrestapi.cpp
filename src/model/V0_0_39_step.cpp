@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_39_step.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

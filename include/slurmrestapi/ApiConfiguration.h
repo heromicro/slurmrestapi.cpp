@@ -16,8 +16,8 @@
  * This class represents a single item of a multipart-formdata request.
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_API_ApiConfiguration_H_
-#define ORG_OPENAPITOOLS_CLIENT_API_ApiConfiguration_H_
+#ifndef HM_SLURM_CLIENT_API_ApiConfiguration_H_
+#define HM_SLURM_CLIENT_API_ApiConfiguration_H_
 
 
 
@@ -26,8 +26,8 @@
 
 #include <map>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace api {
 
@@ -64,4 +64,4 @@ protected:
 }
 }
 }
-#endif /* ORG_OPENAPITOOLS_CLIENT_API_ApiConfiguration_H_ */
+#endif /* HM_SLURM_CLIENT_API_ApiConfiguration_H_ */

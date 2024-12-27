@@ -16,8 +16,8 @@
  * 
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_40_step_time_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_40_step_time_H_
+#ifndef HM_SLURM_CLIENT_MODEL_V0_0_40_step_time_H_
+#define HM_SLURM_CLIENT_MODEL_V0_0_40_step_time_H_
 
 
 #include "slurmrestapi/ModelBase.h"
@@ -27,8 +27,8 @@
 #include "slurmrestapi/model/V0_0_40_uint64_no_val.h"
 #include "slurmrestapi/model/V0_0_40_step_time_total.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -149,4 +149,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_40_step_time_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_V0_0_40_step_time_H_ */

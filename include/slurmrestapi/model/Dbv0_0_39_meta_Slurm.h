@@ -16,8 +16,8 @@
  * Slurm information
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_Dbv0_0_39_meta_Slurm_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_Dbv0_0_39_meta_Slurm_H_
+#ifndef HM_SLURM_CLIENT_MODEL_Dbv0_0_39_meta_Slurm_H_
+#define HM_SLURM_CLIENT_MODEL_Dbv0_0_39_meta_Slurm_H_
 
 
 #include "slurmrestapi/ModelBase.h"
@@ -25,8 +25,8 @@
 #include <cpprest/details/basic_types.h>
 #include "slurmrestapi/model/Dbv0_0_39_meta_Slurm_version.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -89,4 +89,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_Dbv0_0_39_meta_Slurm_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_Dbv0_0_39_meta_Slurm_H_ */

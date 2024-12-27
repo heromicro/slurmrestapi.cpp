@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_40_qos_limits_min_tres.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

@@ -26,12 +26,12 @@ utility::string_t toString(const T value)
   return out.str();
 }
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace api {
 
-using namespace org::openapitools::client::model;
+using namespace hm::slurm::client::model;
 
 ApiClient::ApiClient(std::shared_ptr<const ApiConfiguration> configuration )
     : m_Configuration(configuration)

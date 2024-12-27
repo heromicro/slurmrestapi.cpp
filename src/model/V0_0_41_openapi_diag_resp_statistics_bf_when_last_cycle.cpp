@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_41_openapi_diag_resp_statistics_bf_when_last_cycle.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

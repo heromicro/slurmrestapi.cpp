@@ -16,15 +16,15 @@
  * Number of processor threads per CPU core required
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_threads_per_core_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_threads_per_core_H_
+#ifndef HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_threads_per_core_H_
+#define HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_threads_per_core_H_
 
 
 #include "slurmrestapi/ModelBase.h"
 
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -97,4 +97,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_threads_per_core_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_job_info_resp_jobs_inner_threads_per_core_H_ */

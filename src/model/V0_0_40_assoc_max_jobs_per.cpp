@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_40_assoc_max_jobs_per.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

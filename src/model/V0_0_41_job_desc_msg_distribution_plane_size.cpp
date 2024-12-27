@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_41_job_desc_msg_distribution_plane_size.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

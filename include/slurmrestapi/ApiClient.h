@@ -16,8 +16,8 @@
  * This is an API client responsible for stating the HTTP calls
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_API_ApiClient_H_
-#define ORG_OPENAPITOOLS_CLIENT_API_ApiClient_H_
+#ifndef HM_SLURM_CLIENT_API_ApiClient_H_
+#define HM_SLURM_CLIENT_API_ApiClient_H_
 
 
 #include "slurmrestapi/ApiConfiguration.h"
@@ -36,12 +36,12 @@
 #include <vector>
 #include <functional>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace api {
 
-using namespace org::openapitools::client::model;
+using namespace hm::slurm::client::model;
 
 class  ApiClient
 {
@@ -112,4 +112,4 @@ utility::string_t ApiClient::parameterToString(const std::shared_ptr<T>& value)
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_API_ApiClient_H_ */
+#endif /* HM_SLURM_CLIENT_API_ApiClient_H_ */

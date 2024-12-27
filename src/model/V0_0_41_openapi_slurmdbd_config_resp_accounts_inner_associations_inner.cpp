@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_41_openapi_slurmdbd_config_resp_accounts_inner_associations_inner.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

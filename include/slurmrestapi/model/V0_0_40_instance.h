@@ -16,8 +16,8 @@
  * 
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_40_instance_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_40_instance_H_
+#ifndef HM_SLURM_CLIENT_MODEL_V0_0_40_instance_H_
+#define HM_SLURM_CLIENT_MODEL_V0_0_40_instance_H_
 
 
 #include "slurmrestapi/ModelBase.h"
@@ -25,8 +25,8 @@
 #include "slurmrestapi/model/V0_0_40_instance_time.h"
 #include <cpprest/details/basic_types.h>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -133,4 +133,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_40_instance_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_V0_0_40_instance_H_ */

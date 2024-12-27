@@ -16,15 +16,15 @@
  * Number of seconds after the node&#39;s state is updated to \&quot;DOWN\&quot; or \&quot;DRAIN\&quot; before scheduling a node state resume
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_nodes_resp_nodes_inner_resume_after_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_nodes_resp_nodes_inner_resume_after_H_
+#ifndef HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_nodes_resp_nodes_inner_resume_after_H_
+#define HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_nodes_resp_nodes_inner_resume_after_H_
 
 
 #include "slurmrestapi/ModelBase.h"
 
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -97,4 +97,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_nodes_resp_nodes_inner_resume_after_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_nodes_resp_nodes_inner_resume_after_H_ */

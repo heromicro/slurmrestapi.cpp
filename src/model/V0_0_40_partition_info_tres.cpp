@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_40_partition_info_tres.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

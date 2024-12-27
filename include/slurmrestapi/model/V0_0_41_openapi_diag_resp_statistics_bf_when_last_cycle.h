@@ -16,15 +16,15 @@
  * When the last backfill scheduling cycle happened (UNIX timestamp)
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_diag_resp_statistics_bf_when_last_cycle_H_
-#define ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_diag_resp_statistics_bf_when_last_cycle_H_
+#ifndef HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_diag_resp_statistics_bf_when_last_cycle_H_
+#define HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_diag_resp_statistics_bf_when_last_cycle_H_
 
 
 #include "slurmrestapi/ModelBase.h"
 
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
@@ -97,4 +97,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_MODEL_V0_0_41_openapi_diag_resp_statistics_bf_when_last_cycle_H_ */
+#endif /* HM_SLURM_CLIENT_MODEL_V0_0_41_openapi_diag_resp_statistics_bf_when_last_cycle_H_ */

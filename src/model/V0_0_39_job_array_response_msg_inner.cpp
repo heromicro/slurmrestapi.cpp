@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/V0_0_39_job_array_response_msg_inner.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 

@@ -16,8 +16,8 @@
  * This is the exception being thrown in case the api call was not successful
  */
 
-#ifndef ORG_OPENAPITOOLS_CLIENT_API_ApiException_H_
-#define ORG_OPENAPITOOLS_CLIENT_API_ApiException_H_
+#ifndef HM_SLURM_CLIENT_API_ApiException_H_
+#define HM_SLURM_CLIENT_API_ApiException_H_
 
 
 
@@ -27,8 +27,8 @@
 #include <memory>
 #include <map>
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace api {
 
@@ -58,4 +58,4 @@ protected:
 }
 }
 
-#endif /* ORG_OPENAPITOOLS_CLIENT_API_ApiBase_H_ */
+#endif /* HM_SLURM_CLIENT_API_ApiBase_H_ */

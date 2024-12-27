@@ -14,8 +14,8 @@
 
 #include "slurmrestapi/model/Dbv0_0_39_response_associations_delete.h"
 
-namespace org {
-namespace openapitools {
+namespace hm {
+namespace slurm {
 namespace client {
 namespace model {
 
