@@ -1,3 +1,3 @@
 
-openapi-generator generate -i spec/openapi.v0.0.xx.json  -g cpp-restsdk --package-name slurmrestapi -o ./
+openapi-generator generate -i spec/openapi.24.05.5.json  -g cpp-restsdk --additional-properties modelPackage=hm.slurm.client.model,packageName=slurmrestapi --package-name slurmrestapi -o ./
 
